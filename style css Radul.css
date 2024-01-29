@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+
+.strge {
+    text-align: center;
+    background-color: rgb(212, 202, 202);
+}
+
+.nmp ul {
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0;
+}
+
+.nmp li {
+    display: inline-block;
+    width: 15%; 
+    text-align: center;
+}
+
+.nmp li a {
+    display: block;
+    padding: 20px 0; 
+    text-decoration: none;
+    color: black;
+}
+
+.nmp li a:hover {
+    background-color: white;
+}
